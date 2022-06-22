@@ -18,7 +18,7 @@ Python - Jupyter Notebook
 * Sklearn
 
 ##  Notebook - Compoenents
-
+Inorder to calculate the Eigen values and Eigen vecotors form the dataset we need to perform a scaling operation on every feature 
 ```python
 #Standardise the data
 from sklearn.preprocessing import StandardScaler as ss
